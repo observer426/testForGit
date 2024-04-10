@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T19:30:51.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="gcvB7e8GEAJqYLZToy5F" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T22:52:30.419Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="MQ0u2gKr1OWGvFbbHMQN" version="24.2.3" type="github">
   <diagram id="LoJ6E7l1iG33e22ECbr3" name="第 1 页">
     <mxGraphModel dx="2888" dy="913" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1417,6 +1417,81 @@
           <mxGeometry x="-0.1387" y="5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-294" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iC9wZvoC9Xo8aC8RY-RF-291" target="iC9wZvoC9Xo8aC8RY-RF-292">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-295" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iC9wZvoC9Xo8aC8RY-RF-291" target="iC9wZvoC9Xo8aC8RY-RF-293">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-291" value="模态缺失" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-437" y="7599" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-298" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iC9wZvoC9Xo8aC8RY-RF-292" target="iC9wZvoC9Xo8aC8RY-RF-297">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-301" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="iC9wZvoC9Xo8aC8RY-RF-292" target="iC9wZvoC9Xo8aC8RY-RF-300">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-292" value="训练中的模态缺失" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-226.94" y="7520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-304" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iC9wZvoC9Xo8aC8RY-RF-293" target="iC9wZvoC9Xo8aC8RY-RF-302">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-305" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iC9wZvoC9Xo8aC8RY-RF-293" target="iC9wZvoC9Xo8aC8RY-RF-303">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-293" value="测试中的模态缺失" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-223.16000000000003" y="7750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-297" value="SMIL：贝叶斯元学习，处理严重缺失的多模态问题" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="32" y="7390" width="108" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-300" value="标签编码模块：覆盖单个或多模模态缺失的条件，辅助联合表示的学习" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="31.66" y="7549" width="118" height="121" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-314" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iC9wZvoC9Xo8aC8RY-RF-302" target="iC9wZvoC9Xo8aC8RY-RF-312">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-315" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iC9wZvoC9Xo8aC8RY-RF-302" target="iC9wZvoC9Xo8aC8RY-RF-313">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-302" value="基于定制的方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="12.480000000000002" y="7710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-303" value="基于统一的方法" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="15.01" y="7820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-306" value="LCR：&lt;div&gt;注意力提取机制，提取模态不变的表示。&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="48.48" y="7960" width="84" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-309" value="提取模态不变特征来训练一个模型来处理不同的不完全&lt;br/&gt;模态组合" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="98.85" y="7890" width="148.22" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-310" value="训练若干个特定的模型" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
+          <mxGeometry x="153.01" y="7640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-311" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=27;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iC9wZvoC9Xo8aC8RY-RF-303" target="iC9wZvoC9Xo8aC8RY-RF-306">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-312" value="sample-based" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="293" y="7670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-313" value="representation-based" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="292" y="7770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-316" value="使用GAN在输入空间计算缺失的模态" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="515" y="7650" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-317" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iC9wZvoC9Xo8aC8RY-RF-312" target="iC9wZvoC9Xo8aC8RY-RF-316">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-319" value="通过知识蒸馏或矩阵补全等方法重构样本表示" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="515" y="7760" width="85" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="iC9wZvoC9Xo8aC8RY-RF-320" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iC9wZvoC9Xo8aC8RY-RF-313" target="iC9wZvoC9Xo8aC8RY-RF-319">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
